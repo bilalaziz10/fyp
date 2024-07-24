@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239318938066",
+    "project_id": "myunifyp-d70f5",
+    "storage_bucket": "myunifyp-d70f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239318938066:android:29c3a1979c51a0a627980b",
+        "android_client_info": {
+          "package_name": "com.example.wheat_disease_detection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn4r-ghDi_A5ouPLKx8-l1czC0HRIZPKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
